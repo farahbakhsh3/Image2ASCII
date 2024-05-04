@@ -3,8 +3,8 @@
 
 import os
 import cv2
-import numpy as np
 from numba import njit
+
 
 size = (150, 75)
 density = '        .,-=+*:;cba!?0123456789$W#@Ñ'

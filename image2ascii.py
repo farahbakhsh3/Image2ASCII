@@ -2,7 +2,7 @@
 # coding: utf-8
 
 from matplotlib import pyplot as plt
-from skimage import io, transform, color
+from skimage import io, transform
 import os
 
 
